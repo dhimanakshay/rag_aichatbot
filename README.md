@@ -1,6 +1,6 @@
 # AI Chatbot — RAG + AI Agent System
 
-A production-style conversational AI system built for the AI Developer technical assessment.
+A production-style conversational 
 The application combines:
 
 * Real-time streaming chat
